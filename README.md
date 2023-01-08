@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a french developer that loves C and C++, and I'm currently Elixir.  
+I'm a french developer that loves C and C++, and I'm currently learning Elixir.  
 I've been using C for 5 years and C++ for 3 years.  
 I would gladly contribute to your project, just contact me on my email address!  
 
